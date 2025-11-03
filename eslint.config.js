@@ -27,6 +27,7 @@ export default defineConfig([
         { argsIgnorePattern: '^_' },
       ],
       '@typescript-eslint/explicit-function-return-type': 'off',
+      '@typescript-eslint/no-inferrable-types': 'warn',
 
       'prettier/prettier': [
         'error',
