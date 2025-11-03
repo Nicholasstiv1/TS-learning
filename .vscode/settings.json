@@ -1,0 +1,4 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "cls && node --loader ts-node/esm"
+}}
